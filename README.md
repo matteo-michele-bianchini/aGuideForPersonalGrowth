@@ -4,7 +4,9 @@ An open-source, practical guide for personal growth and global social improvemen
 
 ## 📜 The Manifesto
 
-The world doesn't change through grand speeches, but through the small evolutions of every single individual. If you improve how you think, act, and communicate, the society around you changes as a reflection. This is the only revolution that actually works.
+The world doesn't change through grand speeches, but through the small evolutions of every single individual.  
+If you improve how you think, act, and communicate, the society around you changes as a reflection.  
+This is the only revolution that actually works.
 
 ### Our Core Principles:
 1. **Simplicity:** If a child can't understand it, it’s not deep enough.
