@@ -17,8 +17,8 @@ La conoscenza per stare bene e vivere in armonia è di tutti.
 
 ## 🧭 Struttura della Guida
 - **[Modulo 1: Padronanza di Sé](./moduli/01-padronanza-di-se.md)** - Gestione dell'attenzione e delle emozioni.
-- **[Modulo 2: L'Arte dell'Incontro](./moduli/02-arte-dell-incontro.md)** - Ascolto attivo ed empatia pratica.
-- **[Modulo 3: Impatto Globale](./moduli/03-impatto-globale.md)** - Consumo critico e cittadinanza attiva.
+- **Modulo 2: L'Arte dell'Incontro** - Ascolto attivo ed empatia pratica. *(In lavorazione)*
+- **Modulo 3: Impatto Globale** - Consumo critico e cittadinanza attiva. *(In lavorazione)*
 
 ---
 
