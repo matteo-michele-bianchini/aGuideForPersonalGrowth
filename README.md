@@ -15,7 +15,7 @@ The world doesn't change through grand speeches, but through the small evolution
 
 ## 💡 Why Open Source?
 The knowledge to be well and live in harmony belongs to everyone.
-**You can use, copy, and improve this guide.** If you want to contribute to this evolution, please check our [CONTRIBUTING.md](./CONTRIBUTING.md) (link to your contribute process).
+**You can use, copy, and improve this guide.** Join our [community discussion](https://github.com/matteo-michele-bianchini/aGuideForHumanGrowth/discussions/1) to contribute.
 
 ---
 
@@ -28,4 +28,5 @@ This guide is modular. You can start anywhere, but we suggest following the orde
 - **[Module 3: Global Impact](./moduli/03-global-impact.md)** - Sustainable habits and conscious citizenship.
 
 ---
+
 *Created with ❤️ for the Human Species.*
