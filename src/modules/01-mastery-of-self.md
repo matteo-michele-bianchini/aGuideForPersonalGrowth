@@ -12,7 +12,7 @@ Your attention is your true self.
 * **Why:** This retrains your brain to focus on the "now" rather than the "next."
 
 ## 2. Global Impact
-When thousands of people regain control of their attention:
+When we regain control of our attention:
 1.  **Clarity rises:** We start making choices based on real factors, not perceived impulses.
 2.  **Presence:** We become capable of truly listening to the person in front of us.
 

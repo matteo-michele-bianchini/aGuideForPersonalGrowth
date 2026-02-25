@@ -8,3 +8,10 @@
 
 ## Terminology
 - Use **"growth"** instead of **"evolution"** in all content (both EN and IT: "crescita" instead of "evoluzione")
+
+## Push Workflow
+When the user says "push":
+1. **Check changes** — review all modified files (git diff)
+2. **Critical evaluation** — does each change make sense? If not, flag it and stop before committing
+3. **Sync translations** — align EN/IT modules and READMEs
+4. **Commit and push**
