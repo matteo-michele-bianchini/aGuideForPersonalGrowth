@@ -17,7 +17,7 @@ When we regain control of our attention:
 2.  **Clarity rises:** We start acting based on real factors, not perceived impulses.
 3.  **Presence:** We ARE fully present to what is happening (here and now).  
 It is not happening somewhere.  
-It is not happening to us.  
+It is not happening **to us**.  
 It is happening with and within us.
 
 
