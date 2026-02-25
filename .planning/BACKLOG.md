@@ -37,6 +37,15 @@
 - [ ] Write IT translation (seed exists)
 - [ ] Add practical exercise
 
+### New Section: Trust, Gratitude, and Love
+- **Status:** Idea
+- [ ] Define core content: the role of trust, gratitude, and love in personal growth
+- [ ] Decide placement (new module or section within an existing module)
+- [ ] Write EN content
+- [ ] Write IT translation
+- [ ] Add practical exercise
+- [ ] Link in index
+
 ### Module 6: Global Impact
 - **Status:** Not started
 - [ ] Define core content: sustainable habits and conscious citizenship
