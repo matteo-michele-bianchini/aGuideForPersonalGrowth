@@ -13,6 +13,10 @@
 ## Terminology
 - Use **"growth"** instead of **"evolution"** in all content (both EN and IT: "crescita" instead of "evoluzione")
 
+## Backlog
+- When a module status is "Done", remove completed task items — keep only the status line
+- Pending tasks stay as checklist items
+
 ## Push Workflow
 When the user says "push":
 1. **Check changes** — review all modified files (git diff)

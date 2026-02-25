@@ -19,11 +19,7 @@
 - [ ] Link in index
 
 ### Module 3: Mastery of Self
-- **Status:** Available
-- [x] Core content written (Power of Attention, Global Impact)
-- [x] Practical exercise (The 60-Second Reset)
-- [x] IT translation synced
-- [ ] Review and expand sections
+- **Status:** Done (for now)
 
 ### Module 4: The Art of Encounter
 - **Status:** Not started
@@ -36,6 +32,7 @@
 ### Module 5: We Are What Happens
 - **Status:** Seed only
 - [x] Core concept defined: "What happens is not separate from us"
+- [ ] Expand the concept of coincidence between self and what is outside the self — there is no boundary, what happens IS us
 - [ ] Develop full content
 - [ ] Write IT translation (seed exists)
 - [ ] Add practical exercise

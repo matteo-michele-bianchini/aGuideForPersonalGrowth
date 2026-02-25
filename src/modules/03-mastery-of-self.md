@@ -1,5 +1,6 @@
 # Module 3: Mastery of Self 🧘
 
+There is no separation between us and "the rest".
 The foundation of global change is your ability to govern yourself.
 
 ## 1. The Power of Attention
