@@ -14,8 +14,8 @@ Your attention is your true self.
 ## 2. Global Impact
 When we regain control of our attention:
 1.  **Being over doing:** We reach the shift from human *doing* to human *being* — being becomes the starting point, and doing naturally follows from it.
-2.  **Clarity rises:** We start making choices based on real factors, not perceived impulses.
-3.  **Presence:** We become capable of truly listening to the person in front of us.
+2.  **Clarity rises:** We start acting based on real factors, not perceived impulses.
+3.  **Presence:** We ARE fully present to what is happening here and now. It is not happening somewhere to us. It is happening with and within us.
 
 
 ---
