@@ -29,4 +29,10 @@ This guide is modular. You can start anywhere, but we suggest following the orde
 
 ---
 
+## 🌐 Available Translations
+
+- 🇮🇹 [Italiano](./src/translations/it/README.md)
+
+---
+
 *Created with ❤️ for the Human Species.*
