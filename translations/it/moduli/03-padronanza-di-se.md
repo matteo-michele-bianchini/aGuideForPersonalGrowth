@@ -12,7 +12,7 @@ La tua attenzione è il tuo vero sé.
 * **Come:** Chiudi gli occhi. Concentrati solo sulla sensazione dell'aria che entra ed esce dalle narici. Non cercare di cambiarla, osservala e basta.
 * **Perché:** Questo riallena il cervello a concentrarsi sul "qui e ora" invece che sul "dopo".
 
-## 2. Impatto Globale
+## 2. Cosa Ne Ricavi
 Quando riprendiamo il controllo della nostra attenzione:
 1.  **Essere prima di fare:** Raggiungiamo il passaggio da esseri che *fanno* a esseri che *sono* — l'essere diventa il punto di partenza, e il fare ne consegue naturalmente.
 2.  **La chiarezza cresce:** Iniziamo a fare scelte basate su fattori reali, non su impulsi percepiti.

@@ -12,7 +12,7 @@ Your attention is your true self.
 * **How:** Close your eyes. Focus only on the sensation of air entering and leaving your nostrils. Do not try to change it, just observe it.
 * **Why:** This retrains your brain to focus on the "now" rather than the "next."
 
-## 2. Global Impact
+## 2. What You Get
 When we regain control of our attention:
 1.  **Being over doing:** We reach the shift from human *doing* to human *being* — being becomes the starting point, and doing naturally follows from it.
 2.  **Clarity rises:** We start acting based on real factors, not perceived impulses.
