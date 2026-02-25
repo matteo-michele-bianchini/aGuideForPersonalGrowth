@@ -22,7 +22,8 @@ La conoscenza per stare bene e vivere in armonia è di tutti.
 - **Modulo 2: Conosci Te Stesso** - Il compito primario di ogni essere umano è conoscere se stesso. *(In lavorazione)*
 - **[Modulo 3: Padronanza di Sé](./moduli/03-padronanza-di-se.md)** - Gestione dell'attenzione e delle emozioni.
 - **Modulo 4: L'Arte dell'Incontro** - Ascolto attivo ed empatia pratica. *(In lavorazione)*
-- **Modulo 5: Impatto Globale** - Consumo critico e cittadinanza attiva. *(In lavorazione)*
+- **[Modulo 5: Noi Siamo Ciò Che Accade](./moduli/05-noi-siamo-cio-che-accade.md)** - Ciò che accade non è separato da noi. *(In lavorazione)*
+- **Modulo 6: Impatto Globale** - Consumo critico e cittadinanza attiva. *(In lavorazione)*
 
 ---
 
