@@ -23,14 +23,9 @@ The knowledge to be well and live in harmony belongs to everyone.
 
 ## 🧭 Structure of the Guide
 
-This guide is modular. You can start anywhere, but we suggest following the order:
+This guide is modular. You can start anywhere, but we suggest following the order.
 
-- **Module 1: Emotional Wellbeing** - Understanding and caring for your inner world. *(Work in progress)*
-- **Module 2: Know Yourself** - The primary task of every human being is to know themselves. *(Work in progress)*
-- **[Module 3: Mastery of Self](./src/modules/03-mastery-of-self.md)** - Taking back control of your attention and energy.
-- **Module 4: The Art of Encounter** - Active listening and practical empathy. *(Work in progress)*
-- **[Module 5: We Are What Happens](./src/modules/05-we-are-what-happens.md)** - What happens is not separate from us. *(Work in progress)*
-- **Module 6: Global Impact** - Sustainable habits and conscious citizenship. *(Work in progress)*
+**[View the full index](./src/index.md)**
 
 ---
 

@@ -18,12 +18,10 @@ La conoscenza per stare bene e vivere in armonia è di tutti.
 3. **Inclusività:** Non importa chi sei o da dove vieni; la crescita è un diritto universale.
 
 ## 🧭 Struttura della Guida
-- **Modulo 1: Benessere Emotivo** - Comprendere e prendersi cura del proprio mondo interiore. *(In lavorazione)*
-- **Modulo 2: Conosci Te Stesso** - Il compito primario di ogni essere umano è conoscere se stesso. *(In lavorazione)*
-- **[Modulo 3: Padronanza di Sé](./moduli/03-padronanza-di-se.md)** - Gestione dell'attenzione e delle emozioni.
-- **Modulo 4: L'Arte dell'Incontro** - Ascolto attivo ed empatia pratica. *(In lavorazione)*
-- **[Modulo 5: Noi Siamo Ciò Che Accade](./moduli/05-noi-siamo-cio-che-accade.md)** - Ciò che accade non è separato da noi. *(In lavorazione)*
-- **Modulo 6: Impatto Globale** - Consumo critico e cittadinanza attiva. *(In lavorazione)*
+
+La guida è modulare. Puoi iniziare da dove vuoi, ma suggeriamo di seguire l'ordine.
+
+**[Consulta l'indice completo](./indice.md)**
 
 ---
 
